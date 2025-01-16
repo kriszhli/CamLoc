@@ -1,4 +1,4 @@
-# SuperPointSuperGlue_CameraRelocation
+# SuperGlue_Ext
 
 This repo contains additional scripts to run with https://github.com/magicleap/SuperGluePretrainedNetwork. Simply copy these files into your SuperGluePretrainedNetwork fork, change the directories in the scripts, and run the scripts.
 
